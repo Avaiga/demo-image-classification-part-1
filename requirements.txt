@@ -1,6 +1,6 @@
 taipy==2.0.0
 taipy-gui==2.0.4
-tensorflow==2.10.1
+tensorflow==2.11.1
 pandas==1.5.2
 matplotlib==3.6.3
 PIL==9.4.0
